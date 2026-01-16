@@ -1,0 +1,8 @@
+{
+  "version": "1.1.0",
+  "version_code": 2,
+  "download_url": "https://github.com/AppServerMV/abtltracker-app/releases/download/v1.1.0/ABTLTracker-v1.1.0.apk",
+  "changelog": "✓ Sistema de actualizaciones automáticas\n✓ Corrección de errores\n✓ Mejora de rendimiento\n✓ Nueva pantalla de configuración",
+  "critical": false,
+  "file_size": 8500000
+}
