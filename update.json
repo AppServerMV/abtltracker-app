@@ -1,8 +1,8 @@
 {
-  "version": "1.2.0",
-  "version_code": 3,
-  "download_url": "https://github.com/AppServerMV/abtltracker-app/releases/download/v1.2.0_3/ABTLTracker-v1.2.0.apk",
-  "changelog": "✓ Mejoras en el sistema de actualizaciones\n✓ Corrección de cálculos financieros\n✓ Nueva interfaz mejorada\n✓ Mayor estabilidad",
-  "critical": false,
-  "file_size": 8700000
+  "version": "1.3.0",
+  "version_code": 4,
+  "download_url": "https://github.com/AppServerMV/abtltracker-app/releases/download/v1.3.0_4/ABTLTracker-v1.3.0.apk",
+  "changelog": "✓ Sistema de actualizaciones mejorado\n✓ Corrección total de permisos\n✓ Descarga directa sin problemas\n✓ Instalación automática funcionando",
+  "critical": true,
+  "file_size": 8800000
 }
